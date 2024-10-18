@@ -1,10 +1,8 @@
 {
-  "version": 1,
+  "version": 2,
   "rules": [
     {
       "domain_suffix": [
-        "gstatic.com",
-        "googleapis.com",
         "nianticlabs.com",
         "nianticstatic.com",
         "quago.io",
